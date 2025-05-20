@@ -21,3 +21,7 @@ Analyze trends among groups that may be critical for finding solutions to preven
 ## Data Set
 
 The data set that we will be using for our case study is provided by two reports from the Measure of America project related to youth disconnect. The data provided will be in the form of images.
+
+## Final
+
+Click [here](https://htmlpreview.github.io/?https://github.com/mchang21/Youth-Disconnection-Case-Study/blob/main/cs01.html) to view the case study.
